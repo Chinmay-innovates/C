@@ -1,5 +1,6 @@
 #include <stdbool.h>
 #include <stdio.h>
+
 #include "Graph.h"
 
 #define MAX_NODES 1000

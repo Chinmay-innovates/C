@@ -1,9 +1,10 @@
 // Graph ADT
 // Adjacency Matrix Representation
-#include "Graph.h"
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
+
+#include "Graph.h"
 
 typedef struct GraphRep
 {
